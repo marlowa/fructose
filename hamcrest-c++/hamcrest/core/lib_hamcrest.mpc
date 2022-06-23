@@ -1,0 +1,8 @@
+project(lib_hamcrest) {
+
+    staticname = hamcrest
+    sharedname = 
+    dllout = ../../lib
+    libout = ../../lib
+}
+
