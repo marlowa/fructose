@@ -1,0 +1,6 @@
+I intend to see if FRUCTOSE can include some features that CxxTest has.
+Watch this space....!
+
+I've found that the hamcrest matcher code is C++98.
+It fails to compile with -std=c++11 and beyond.
+This is something to fix at a later date.
